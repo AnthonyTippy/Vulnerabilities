@@ -7,8 +7,11 @@ As an AV Technician I take an interest in securing AV devices that I interact wi
 [Here is the official vulnerability report that I submitted to Crestron](https://github.com/AnthonyTippy/Vulnerabilities/blob/main/Crestron_HD-MD_Series_Vulnerability_Report_-_Anthony_Tippy_-_08-10-21.pdf)
 
 Discovered : 07/01/2021
+
 Reported : 08/10/2021
+
 Crestron Response: 10/07/2021
+
 Publicly Disclosed : 02/15/2022
 
 I submitted a request to MITRE for an official CVE but received no response. 
