@@ -1,6 +1,11 @@
 # Vulnerabilities	
 
 ## Crestron HD-MD-XX -RCE/ Improper Authentication-  CVE-2022-23178
+
+As an AV Technician I take an interest in securing AV devices that I interact with. In this process I discovered a vulnerability with the Crestron HD-MD series of "DM-LITE" devices that allows for remote code execution as well as inproper handling of plaintext credentials.
+Here is the official vulnerability report that I submitted to Crestron
+
+
 Discovered : 07/01/2021
 Reported : 08/10/2021
 Crestron Response: 10/07/2021
